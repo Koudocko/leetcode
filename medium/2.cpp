@@ -1,8 +1,4 @@
 #include <iostream>
-#include <stack>
-#include <string>
-#include <unordered_map>
-#include <utility>
 
 struct ListNode{
     int val;
